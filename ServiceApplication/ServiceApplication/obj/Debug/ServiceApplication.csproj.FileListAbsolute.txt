@@ -1,0 +1,21 @@
+C:/Users/User/documents/visual studio 2017/Projects/ServiceApplication/ServiceApplication/obj/Debug/ServiceApplication.csprojResolveAssemblyReference.cache
+C:/Users/User/documents/visual studio 2017/Projects/ServiceApplication/ServiceApplication/bin/Debug/ServiceApplication.exe.config
+C:/Users/User/documents/visual studio 2017/Projects/ServiceApplication/ServiceApplication/bin/Debug/ServiceApplication.exe
+C:/Users/User/documents/visual studio 2017/Projects/ServiceApplication/ServiceApplication/bin/Debug/ServiceApplication.pdb
+C:/Users/User/documents/visual studio 2017/Projects/ServiceApplication/ServiceApplication/bin/Debug/Autofac.dll
+C:/Users/User/documents/visual studio 2017/Projects/ServiceApplication/ServiceApplication/bin/Debug/RestSharp.dll
+C:/Users/User/documents/visual studio 2017/Projects/ServiceApplication/ServiceApplication/bin/Debug/Autofac.xml
+C:/Users/User/documents/visual studio 2017/Projects/ServiceApplication/ServiceApplication/bin/Debug/RestSharp.xml
+C:/Users/User/documents/visual studio 2017/Projects/ServiceApplication/ServiceApplication/obj/Debug/ServiceApplication.exe
+C:/Users/User/documents/visual studio 2017/Projects/ServiceApplication/ServiceApplication/obj/Debug/ServiceApplication.pdb
+/Users/husseinkaraki/Downloads/Program/ServiceApplication/ServiceApplication/bin/Debug/ServiceApplication.exe.config
+/Users/husseinkaraki/Downloads/Program/ServiceApplication/ServiceApplication/bin/Debug/ServiceApplication.exe
+/Users/husseinkaraki/Downloads/Program/ServiceApplication/ServiceApplication/bin/Debug/ServiceApplication.pdb
+/Users/husseinkaraki/Downloads/Program/ServiceApplication/ServiceApplication/bin/Debug/Autofac.dll
+/Users/husseinkaraki/Downloads/Program/ServiceApplication/ServiceApplication/bin/Debug/RestSharp.dll
+/Users/husseinkaraki/Downloads/Program/ServiceApplication/ServiceApplication/bin/Debug/Autofac.xml
+/Users/husseinkaraki/Downloads/Program/ServiceApplication/ServiceApplication/bin/Debug/RestSharp.xml
+/Users/husseinkaraki/Downloads/Program/ServiceApplication/ServiceApplication/obj/Debug/ServiceApplication.csprojResolveAssemblyReference.cache
+/Users/husseinkaraki/Downloads/Program/ServiceApplication/ServiceApplication/obj/Debug/ServiceApplication.csproj.CoreCompileInputs.cache
+/Users/husseinkaraki/Downloads/Program/ServiceApplication/ServiceApplication/obj/Debug/ServiceApplication.exe
+/Users/husseinkaraki/Downloads/Program/ServiceApplication/ServiceApplication/obj/Debug/ServiceApplication.pdb

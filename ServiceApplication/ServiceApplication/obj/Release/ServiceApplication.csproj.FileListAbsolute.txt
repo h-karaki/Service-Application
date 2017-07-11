@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2017\Projects\ServiceApplication\ServiceApplication\bin\Release\ServiceApplication.exe.config
+c:\users\user\documents\visual studio 2017\Projects\ServiceApplication\ServiceApplication\bin\Release\ServiceApplication.exe
+c:\users\user\documents\visual studio 2017\Projects\ServiceApplication\ServiceApplication\bin\Release\ServiceApplication.pdb
+c:\users\user\documents\visual studio 2017\Projects\ServiceApplication\ServiceApplication\bin\Release\Autofac.dll
+c:\users\user\documents\visual studio 2017\Projects\ServiceApplication\ServiceApplication\bin\Release\RestSharp.dll
+c:\users\user\documents\visual studio 2017\Projects\ServiceApplication\ServiceApplication\bin\Release\Autofac.xml
+c:\users\user\documents\visual studio 2017\Projects\ServiceApplication\ServiceApplication\bin\Release\RestSharp.xml
+c:\users\user\documents\visual studio 2017\Projects\ServiceApplication\ServiceApplication\obj\Release\ServiceApplication.exe
+c:\users\user\documents\visual studio 2017\Projects\ServiceApplication\ServiceApplication\obj\Release\ServiceApplication.pdb
+C:\Users\User\documents\visual studio 2017\Projects\ServiceApplication\ServiceApplication\obj\Release\ServiceApplication.csprojResolveAssemblyReference.cache

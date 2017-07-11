@@ -1,0 +1,20 @@
+﻿
+
+FileInputData
+Do I Include System.LINQ and use this instead? 
+List<string> data = temp.OfType<string>().ToList();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

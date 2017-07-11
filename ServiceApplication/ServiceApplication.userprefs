@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FCCD771B-06C6-4921-AA3C-BCBEB042286D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServiceApplication/MainController.cs">
+    <Files>
+      <File FileName="ServiceApplication/MainController.cs" Line="6" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ServiceApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
